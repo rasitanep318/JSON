@@ -1,6 +1,6 @@
-ID
-Title
-Steps
-Expected Result
-Actual Result
-Environment
+{ "ID": 1,
+  "Title": "Buttons SELL and BUY are not clickable",
+  "Steps": "Navigate to",
+  "Expected Result": "Reconnect to the platform",
+  "Actual Result": "Buttons are not clickable"
+}
